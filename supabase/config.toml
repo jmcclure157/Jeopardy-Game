@@ -1,0 +1,2 @@
+# Local Supabase settings. Only project_id is set; the Supabase CLI uses defaults for the rest.
+project_id = "jeopardy-game"
